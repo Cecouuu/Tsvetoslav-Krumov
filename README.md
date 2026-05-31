@@ -1,10 +1,10 @@
 # Tsvetoslav-Krumov
 
-👋 Hi, I'm Tsvetoslav
+Hello, I'm Tsvetoslav
 
 Aspiring web developer interested in front-end development, UI/UX and modern web technologies.
 
-🛠 Technologies:
+## 🛠 Technologies:
 • HTML5
 • CSS3
 • Bootstrap 5
@@ -29,5 +29,5 @@ Aspiring web developer interested in front-end development, UI/UX and modern web
 • Portfolio Website
 
 📫 Contact:
-LinkedIn 
-Email cecokrumov9272@gmail.com
+LinkedIn : 
+Email : cecokrumov9272@gmail.com
