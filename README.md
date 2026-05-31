@@ -19,9 +19,8 @@ Aspiring web developer interested in front-end development, UI/UX and modern web
 -	 Modern web development workflows
 
 ## 🕰️ Future learnings: 
--	 Laravel
--	 PHP OPP
--	 
+-	 Laravel (basics)
+-	 PHP OOP 
 
 ## 💡 Projects:
 -	 Computer Store Website
