@@ -20,7 +20,8 @@ Aspiring web developer interested in front-end development, UI/UX and modern web
 
 ## 🕰️ Future learnings: 
 -	 Laravel (basics)
--	 PHP OOP 
+-	 PHP OOP
+-	 Tailwind CSS framework.
 
 ## 💡 Projects:
 -	 Computer Store Website
