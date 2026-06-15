@@ -14,7 +14,8 @@ Aspiring web developer interested in front-end development, UI/UX and modern web
 -	 C# (Basics)
 
 ## 📚 Currently learning:
--	 PHP 
+-	 PHP
+-	 JS
 -	 MySQL
 -	 Modern web development workflows
 
