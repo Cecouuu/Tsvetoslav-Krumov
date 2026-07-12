@@ -15,12 +15,13 @@ Aspiring web developer interested in front-end development, UI/UX and modern web
 
 ## 📚 Currently learning:
 -	 PHP
--	 JS
+-	 JavaScript
 -	 MySQL
 -	 Modern web development workflows
 
 ## 🕰️ Future learnings: 
 -	 Laravel (basics)
+-	 React
 -	 PHP OOP
 -	 Tailwind CSS framework.
 
