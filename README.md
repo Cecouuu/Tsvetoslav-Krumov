@@ -1,6 +1,22 @@
 # 💫 About Me:
-Tsvetoslav-Krumov<br>Hello, I'm Tsvetoslav<br><br>Aspiring web developer interested in front-end development, UI/UX and modern web technologies.<br><br>🛠 Technologies:<br>HTML5<br>CSS3<br>Bootstrap 5<br>JavaScript (Basics)<br>PHP (Basics)<br>MySQL (Basics)<br>C# (Basics)<br>📚 Currently learning:<br>PHP<br>JavaScript<br>MySQL<br>Modern web development workflows<br>🕰️ Future learnings:<br>Laravel (basics)<br>React<br>PHP OOP<br>Tailwind CSS framework.<br>💡 Projects:<br>Computer Store Website<br>Recipe Website<br>Portfolio Website<br>📫 Contact:<br>LinkedIn : https://www.linkedin.com/in/ckrumov<br>Email : cecokrumov9272@gmail.com
+Tsvetoslav-Krumov<br>Hello, I'm <i><b>Tsvetoslav</b></i><br><br>Aspiring web developer interested in front-end development, UI/UX and modern web technologies.<br>
 
+# 📚 Currently learning:<br>
+PHP<br>
+JavaScript<br>
+MySQL<br>
+Modern web development workflows<br>
+
+# 🕰️ Future learnings:<br>
+Laravel (basics)<br>
+React<br>PHP OOP<br>
+Tailwind CSS framework.<br>
+
+# 💡 Projects:<br>
+- Computer Store Website<br>
+- Recipe Website<br>
+- Portfolio Website<br>
+- Catch the Button game<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ckrumov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cecokrumov9272@gmail.com) 
