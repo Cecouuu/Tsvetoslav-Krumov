@@ -32,8 +32,3 @@ Hello, I'm <i><b>Tsvetoslav</b></i><br><br>Aspiring web developer interested in 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cecouuu&limit=5&theme=swift&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Cecouuu&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
