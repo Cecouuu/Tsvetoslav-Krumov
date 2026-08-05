@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑🏻‍💻 About Me:
 Tsvetoslav-Krumov<br>
 Hello, I'm <i><b>Tsvetoslav</b></i><br><br>Aspiring web developer interested in front-end development, UI/UX and modern web technologies.<br>
 
