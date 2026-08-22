@@ -3,14 +3,14 @@ Tsvetoslav-Krumov<br>
 Hello, I'm <i><b>Tsvetoslav</b></i><br><br>Aspiring web developer interested in front-end development, UI/UX and modern web technologies.<br>
 
 # 📚 Currently learning:<br>
-- PHP<br>
 - JavaScript<br>
-- MySQL<br>
 - Modern web development workflows<br>
 
 # 🕰️ Future learnings:<br>
 - Laravel (basics)<br>
 - React<br>
+- PHP<br>
+- MySQL<br>
 - PHP OOP<br>
 - Tailwind CSS framework.<br>
 
