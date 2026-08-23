@@ -9,7 +9,7 @@ Hello, I'm <i><b>Tsvetoslav</b></i><br><br>Aspiring web developer interested in 
 # 🕰️ Future learnings:<br>
 - Laravel (basics)<br>
 - React<br>
-- PHP<br>
+- PHP fundamentals <br>
 - MySQL<br>
 - PHP OOP<br>
 - Tailwind CSS framework.<br>
