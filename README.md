@@ -16,7 +16,7 @@ Hello, I'm <i><b>Tsvetoslav</b></i><br><br>Aspiring web developer interested in 
 
 # 💡 Projects:<br>
 - Computer Store Website<br>
-- Recipe Website<br>
+- Recipes Website<br>
 - Portfolio Website<br>
 - Catch the Button game<br>
 
